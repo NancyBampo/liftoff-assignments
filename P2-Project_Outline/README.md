@@ -1,18 +1,24 @@
-# Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
 
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This app is a budget helper. Users will be able to have a budget before they go the store and wihile shooping be able to scan products and know exaclty how much their total will be. They will know exactly how much they will have to pay before they go the register/cashier.
 ### Features
-Include Features here
+User login- Users will be able to create and login to their own profiles.
+Barcode scanner - Users will be able to scan products with their phones to see the totosl as they go along.
+Add Item - Users will be able to add scanned items to their shopping carts
+Multiple shopping carts- Users will be able to save previous shopping carts so they can go back and review.
+
 ### Technologies
-Include Technologies here
+C#
+.Net
+SQLite
+Xamarin
+Xaml
 ### What I'll Have to Learn
-Include what you will need to learn here
+Xamarin
+Xaml
+OAuth
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/gkplEINV/launchocode-final-project
