@@ -1,9 +1,9 @@
 
 
-## Submission Instructions
-
 ### Overview
-This app is a budget helper. Users will be able to have a budget before they go the store and wihile shooping be able to scan products and know exaclty how much their total will be. They will know exactly how much they will have to pay before they go the register/cashier.
+This app is a budget helper. Users will be able to have a budget before they go the store and while shopping they
+will be able to scan products and know exaclty how much their total will be. 
+They will know exactly how much they will have to pay before they go the register/cashier.
 ### Features
 User login- Users will be able to create and login to their own profiles.
 Barcode scanner - Users will be able to scan products with their phones to see the totosl as they go along.
